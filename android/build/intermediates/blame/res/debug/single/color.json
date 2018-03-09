@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/jeff/localnews-client/node_modules/react-native-http-cache/android/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/jeff/.android/build-cache/cd0cd4dde87b9b516b3d0f601dd992cd77ad8bc9/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/jeff/localnews-client/node_modules/react-native-http-cache/android/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/jeff/.android/build-cache/cd0cd4dde87b9b516b3d0f601dd992cd77ad8bc9/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/jeff/localnews-client/node_modules/react-native-http-cache/android/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/jeff/.android/build-cache/cd0cd4dde87b9b516b3d0f601dd992cd77ad8bc9/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/jeff/localnews-client/node_modules/react-native-http-cache/android/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/jeff/.android/build-cache/cd0cd4dde87b9b516b3d0f601dd992cd77ad8bc9/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/jeff/localnews-client/node_modules/react-native-http-cache/android/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/jeff/.android/build-cache/cd0cd4dde87b9b516b3d0f601dd992cd77ad8bc9/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/jeff/localnews-client/node_modules/react-native-http-cache/android/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/jeff/.android/build-cache/cd0cd4dde87b9b516b3d0f601dd992cd77ad8bc9/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/jeff/localnews-client/node_modules/react-native-http-cache/android/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/jeff/.android/build-cache/cd0cd4dde87b9b516b3d0f601dd992cd77ad8bc9/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/jeff/localnews-client/node_modules/react-native-http-cache/android/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/jeff/.android/build-cache/cd0cd4dde87b9b516b3d0f601dd992cd77ad8bc9/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/jeff/localnews-client/node_modules/react-native-http-cache/android/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/jeff/.android/build-cache/cd0cd4dde87b9b516b3d0f601dd992cd77ad8bc9/output/res/color/abc_primary_text_material_light.xml"
+    }
+]
