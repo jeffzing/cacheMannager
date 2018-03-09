@@ -1,4 +1,4 @@
-React Native http cache control for both fetch/XMLHttpRequest and ImageView
+此项目拷贝于  react-native-http-cacahe,因为源代码有错误，所以此为修正版本
 
 - [x] iOS
 - [x] Android
@@ -6,7 +6,7 @@ React Native http cache control for both fetch/XMLHttpRequest and ImageView
 ## Installation
 
 ```sh
-$ npm install react-native-http-cache --save
+$ 在你的package.json 中加入https://github.com/jeffzing/cacheMannager.git即可接入
 ```
 
 ## iOS: Linking in your XCode project
